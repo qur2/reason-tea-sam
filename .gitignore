@@ -1,0 +1,10 @@
+.DS_Store
+.merlin
+.bsb.lock
+npm-debug.log
+package-lock.json
+.vscode/
+node_modules
+lib/
+release/*.js
+dev/*.js
